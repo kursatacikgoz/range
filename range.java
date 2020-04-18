@@ -6,13 +6,6 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /*
- * MUHAMMET KURSAT ACIKGOZ
- * 150116020
- * 
- * input files are test1.txt test2.txt test3.txt 
- * test4.txt test5.txt test6.txt
- * output file is output.txt
- * 
  * The purpose of this code is to read the 
  * coordinates and ranges of the devices from 
  * the input file and base the BFS algorithm from 
@@ -22,7 +15,7 @@ import java.util.ArrayList;
  * 
  * */
 
-public class part1 {
+public class range {
 	// The "values" static value will hold how many point inputs there will be.
 	static int values;
 	// All points will be added to this arraylist.
